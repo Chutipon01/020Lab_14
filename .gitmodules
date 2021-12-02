@@ -25,3 +25,4 @@
 [submodule "plugin-chutipon"]
 	path = plugin-chutipon
 	url = https://github.com/Chutipon01/plugin-chutipon.git
+	ignore = dirty
